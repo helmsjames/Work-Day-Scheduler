@@ -1,28 +1,20 @@
 # 05 Third-Party APIs: Work Day Scheduler
 
-Unit 17 NoSql Homework: Workout Tracker
-## Table of contents
-* [General info](#general-info)  
-* [User Story](#user-story)  
-* [Business Context](#business-context)  
-* [Instructions](#instructions)  
-* [Link to Deployed App](#link-to-deployed-app)  
-* [GitHub Repo](#github-repo)
-* [Portfolio Page](#portfolio-page)
-* [Screenshots](#screenshots) 
+Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
 
-## General Info
-For this assignment, you'll create a calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
 
 ## User Story
+
+```
 AS AN employee with a busy schedule
 I WANT to add important events to a daily planner
 SO THAT I can manage my time effectively
-
-## Business Context
-A consumer will reach their fitness goals quicker when they track their workout progress.
+```
 
 ## Acceptance Criteria
+
+```
 GIVEN I am using a daily planner to create a schedule
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
@@ -36,20 +28,19 @@ WHEN I click the save button for that timeblock
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+```
 
-
-* The following animation demonstrates the application functionality:
+The following animation demonstrates the application functionality:
 
 ![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
 
+## Review
 
-## Link to Deployed App
-[Link to deployed app](https://helmsjames.github.io/Work-Day-Scheduler/) 
-(https://helmsjames.github.io/Work-Day-Scheduler/)
+You are required to submit the following for review:
 
-## GitHub Repo:
-https://github.com/helmsjames/Work-Day-Scheduler   
+* The URL of the deployed application.
 
-## Portfolio Page
-https://github.com/helmsjames
+* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
+- - -
+© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
