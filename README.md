@@ -34,13 +34,12 @@ The following animation demonstrates the application functionality:
 
 ![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
 
-## Review
+## Deployed Application
 
-You are required to submit the following for review:
+https://helmsjames.github.io/Work-Day-Scheduler/
 
-* The URL of the deployed application.
+## GitHub repository
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
+https://github.com/helmsjames/Work-Day-Scheduler/blob/master/README.md
 - - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+
